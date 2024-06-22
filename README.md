@@ -8,7 +8,7 @@ Este projeto foi desenvolvido para me familiarizar com a programação em C# e a
 
 ### Funcionalidades
 
-- **Menu Principal**: Tela inicial onde o jogador pode iniciar o jogo ou sair.
+- **Menu Principal**: Tela inicial onde o jogador pode iniciar o jogo.
 - **Nível 1**: Primeiro nível com dificuldade básica.
 - **Nível 2**: Segundo nível com dificuldade aumentada.
 - **Fim de Jogo**: Tela exibida quando o jogador completa todos os níveis.
